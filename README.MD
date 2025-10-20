@@ -5,4 +5,8 @@ but with the basics already working.
 
 ## How to use
 
-For now in our first etage just only executing  tsx src/index.t <projectName>. Yes we love lowerCamelCase name types.
+For now in our first etage just only executing
+
+`tsx src/index.t <projectName>`
+
+Yes we love lowerCamelCase name types.
